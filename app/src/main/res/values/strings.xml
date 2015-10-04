@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlarmNoti</string>
+
+    <string name="todo">やること</string>
+    <string name="set">セット</string>
+    <string name="cancel">削除</string>
+    <string name="action_settings">Settings</string>
+</resources>
